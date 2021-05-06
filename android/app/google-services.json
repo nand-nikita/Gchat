@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "315081505750",
+    "project_id": "gchat-c7696",
+    "storage_bucket": "gchat-c7696.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:315081505750:android:e0bffc09ac11089c404277",
+        "android_client_info": {
+          "package_name": "nikita.iamrich1.gchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "315081505750-8of071q9mbi9148159hrqfufoltgfu7a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "nikita.iamrich1.gchat",
+            "certificate_hash": "2dd310fe9775048c197b008e2a8d71089f6512db"
+          }
+        },
+        {
+          "client_id": "315081505750-9enqilk96ue2m35r0a728t23p6anigpn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCu_Zrd9jYcIQvtw6Unk2FDPRSBOnZEZ8o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "315081505750-9enqilk96ue2m35r0a728t23p6anigpn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
